@@ -61,14 +61,14 @@ MIT License - See LICENSE.txt for details.
 
 📧 Contact: rashedwaqarzafr@gmail.com
 
-🔗 Project Link: https://github.com/RSWaqar/Duplicate-Image-Remover-Fixed
+🔗 Project Link: https://github.com/RSWaqar/Duplicate-Image-Remover
 
 ## Installation 📦
 ### For End Users
-Download the latest installer from [Releases](https://github.com/RSWaqar/Duplicate-Image-Remover-Fixed/releases).
+Download the latest installer from [Releases](https://github.com/RSWaqar/Duplicate-Image-Remover/releases).
 
 ### For Developers
 ```bash
-git clone https://github.com/RSWaqar/Duplicate-Image-Remover-Fixed.git
+git clone https://github.com/RSWaqar/Duplicate-Image-Remover.git
 cd Duplicate-Image-Remover
 pip install -r requirements.txt
